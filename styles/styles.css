@@ -1,5 +1,9 @@
 li {
     font-size: 18px;
-    color:black;
+    color:bl;
     font-weight: bold;
+}
+
+body {
+padding-top: 100px;
 }
